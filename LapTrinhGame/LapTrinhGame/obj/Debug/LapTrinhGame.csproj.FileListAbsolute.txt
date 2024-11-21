@@ -1,0 +1,22 @@
+C:\Users\AD\source\repos\LapTrinhGame\LapTrinhGame\bin\Debug\LapTrinhGame.exe.config
+C:\Users\AD\source\repos\LapTrinhGame\LapTrinhGame\bin\Debug\LapTrinhGame.exe
+C:\Users\AD\source\repos\LapTrinhGame\LapTrinhGame\bin\Debug\LapTrinhGame.pdb
+C:\Users\AD\source\repos\LapTrinhGame\LapTrinhGame\obj\Debug\LapTrinhGame.csproj.AssemblyReference.cache
+C:\Users\AD\source\repos\LapTrinhGame\LapTrinhGame\obj\Debug\LapTrinhGame.Form1.resources
+C:\Users\AD\source\repos\LapTrinhGame\LapTrinhGame\obj\Debug\LapTrinhGame.Properties.Resources.resources
+C:\Users\AD\source\repos\LapTrinhGame\LapTrinhGame\obj\Debug\LapTrinhGame.csproj.GenerateResource.cache
+C:\Users\AD\source\repos\LapTrinhGame\LapTrinhGame\obj\Debug\LapTrinhGame.csproj.CoreCompileInputs.cache
+C:\Users\AD\source\repos\LapTrinhGame\LapTrinhGame\obj\Debug\LapTrinhGame.exe
+C:\Users\AD\source\repos\LapTrinhGame\LapTrinhGame\obj\Debug\LapTrinhGame.pdb
+C:\Users\AD\source\repos\LapTrinhGame\LapTrinhGame\obj\Debug\LapTrinhGame.Form2.resources
+C:\Users\admin\Documents\Zalo Received Files\LapTrinhGame\LapTrinhGame\bin\Debug\LapTrinhGame.exe.config
+C:\Users\admin\Documents\Zalo Received Files\LapTrinhGame\LapTrinhGame\bin\Debug\LapTrinhGame.exe
+C:\Users\admin\Documents\Zalo Received Files\LapTrinhGame\LapTrinhGame\bin\Debug\LapTrinhGame.pdb
+C:\Users\admin\Documents\Zalo Received Files\LapTrinhGame\LapTrinhGame\obj\Debug\LapTrinhGame.csproj.AssemblyReference.cache
+C:\Users\admin\Documents\Zalo Received Files\LapTrinhGame\LapTrinhGame\obj\Debug\LapTrinhGame.Form1.resources
+C:\Users\admin\Documents\Zalo Received Files\LapTrinhGame\LapTrinhGame\obj\Debug\LapTrinhGame.Form2.resources
+C:\Users\admin\Documents\Zalo Received Files\LapTrinhGame\LapTrinhGame\obj\Debug\LapTrinhGame.Properties.Resources.resources
+C:\Users\admin\Documents\Zalo Received Files\LapTrinhGame\LapTrinhGame\obj\Debug\LapTrinhGame.csproj.GenerateResource.cache
+C:\Users\admin\Documents\Zalo Received Files\LapTrinhGame\LapTrinhGame\obj\Debug\LapTrinhGame.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\Zalo Received Files\LapTrinhGame\LapTrinhGame\obj\Debug\LapTrinhGame.exe
+C:\Users\admin\Documents\Zalo Received Files\LapTrinhGame\LapTrinhGame\obj\Debug\LapTrinhGame.pdb
